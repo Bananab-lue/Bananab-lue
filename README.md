@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/7e/76/93/7e7693da31abdb195437d1b3e2b6bbe1.gif" width="100%"/>
 <h1 align="center">Hi 👋, I'm Ana!</h1>
 <h3 align="center">A business professional and hobby developer</h3>
-<h5 align="center">My favourite color is blue, btw</h5>
+<h5 align="center"> 💙 My favourite color is blue, btw 💙</h5>
 
 - 🔭 I’m currently working on **my first portfolio**
 
